@@ -1,0 +1,2 @@
+# premium-furnace-build-001-glass-furnace-building-burne
+Tired of unreliable furnaces that crack or fail to reach melting temperatures for your glass projects? This Notion workshop transforms furnace building from a guessing game into a repeatable, documented system.  Stop spending thousands on pre-built glass furnaces that still need modifications. This template delivers a complete, step-by-step bluepri
